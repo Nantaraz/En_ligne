@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "author": "Nathan ;)",
+  "license": "BSD",
+  "version": "0.0.1",
+  "description": "Mon premier Hello World sur Heroku",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.14",
+    "npm": "1.1.65"
+  }
+}
